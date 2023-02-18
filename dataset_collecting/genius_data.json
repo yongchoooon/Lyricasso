@@ -1,0 +1,1299 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "song": {
+            "annotation_count": 1,
+            "api_path": "/songs/8222243",
+            "apple_music_id": "1635469851",
+            "apple_music_player_url": "https://genius.com/songs/8222243/apple_music_player",
+            "artist_names": "NewJeans (\ub274\uc9c4\uc2a4)",
+            "description": {
+                "dom": {
+                    "tag": "root",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "\u201cHype Boy\u201d is a Korean-language song and the second single recorded by South Korean girl group ",
+                                {
+                                    "tag": "a",
+                                    "attributes": {
+                                        "href": "https://genius.com/artists/Newjeans",
+                                        "rel": "noopener"
+                                    },
+                                    "data": {
+                                        "api_path": "/artists/3239944"
+                                    },
+                                    "children": [
+                                        "NewJeans (\ub274\uc9c4\uc2a4)"
+                                    ]
+                                },
+                                " from their debut extended play (EP), ",
+                                {
+                                    "tag": "a",
+                                    "attributes": {
+                                        "href": "https://genius.com/albums/Newjeans/Newjeans-1st-ep-new-jeans",
+                                        "rel": "noopener"
+                                    },
+                                    "data": {
+                                        "api_path": "/albums/931102"
+                                    },
+                                    "children": [
+                                        {
+                                            "tag": "em",
+                                            "children": [
+                                                "New Jeans"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                ". It was released by ADOR on July 23, 2022, as one of the EP\u2019s lead singles."
+                            ]
+                        },
+                        "",
+                        {
+                            "tag": "p",
+                            "children": [
+                                "On July 23, NewJeans released their second single, \u201cHype Boy\u201d, accompanied by a 50-second introductory clip revealing the members and four additional music videos specific to each member."
+                            ]
+                        },
+                        "",
+                        {
+                            "tag": "p",
+                            "children": [
+                                {
+                                    "tag": "a",
+                                    "attributes": {
+                                        "href": "https://youtu.be/SHYWqy_X-tU",
+                                        "rel": "noopener nofollow"
+                                    },
+                                    "children": [
+                                        "https://youtu.be/SHYWqy_X-tU"
+                                    ]
+                                }
+                            ]
+                        },
+                        "",
+                        {
+                            "tag": "p",
+                            "children": [
+                                "The song, written in Korean and English, has a running time of 2 minutes and 59 seconds and is composed in the key of E minor, with a tempo of 100 beats per minute."
+                            ]
+                        },
+                        "",
+                        {
+                            "tag": "p",
+                            "children": [
+                                {
+                                    "tag": "a",
+                                    "attributes": {
+                                        "href": "https://www.nme.com/reviews/album/newjeans-new-jeans-review-hybe-3283059",
+                                        "rel": "noopener nofollow"
+                                    },
+                                    "children": [
+                                        "Carmen Chin"
+                                    ]
+                                },
+                                " of ",
+                                {
+                                    "tag": "em",
+                                    "children": [
+                                        "NME"
+                                    ]
+                                },
+                                " wrote in a review for the group\u2019s EP ",
+                                {
+                                    "tag": "a",
+                                    "attributes": {
+                                        "href": "https://genius.com/albums/Newjeans/Newjeans-1st-ep-new-jeans",
+                                        "rel": "noopener"
+                                    },
+                                    "data": {
+                                        "api_path": "/albums/931102"
+                                    },
+                                    "children": [
+                                        {
+                                            "tag": "em",
+                                            "children": [
+                                                "New Jeans"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                " that \u201cHype Boy\u201d eschews the \u201cslow-jam nostalgia\u201d of the preceding single \u201cAttention\u201d and \u201cinstead invokes contemporary reimaginations of 2000s sounds with its tropical touches and future bass,\u201d although \u201cthe way these elements are arranged make for a dreamy, almost hazy atmosphere.\u201d In December 2022, ",
+                                {
+                                    "tag": "a",
+                                    "attributes": {
+                                        "href": "https://www.rollingstone.com/music/music-lists/best-songs-2022-list-1234632381/new-jeans-hype-boy-1234632528/",
+                                        "rel": "noopener nofollow"
+                                    },
+                                    "children": [
+                                        {
+                                            "tag": "em",
+                                            "children": [
+                                                "Rolling Stone"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                " placed \u201cHype Boy\u201d at number 24 on their list of the top 100 best songs of 2022, highlighting it as a \u201cstandout\u201d from the group\u2019s EP with \u201cits addictive choreography and catchy chorus\u201d. ",
+                                {
+                                    "tag": "a",
+                                    "attributes": {
+                                        "href": "https://time.com/6240691/best-kpop-2022/",
+                                        "rel": "noopener nofollow"
+                                    },
+                                    "children": [
+                                        {
+                                            "tag": "em",
+                                            "children": [
+                                                "Time"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                " named it one of the best K-pop songs of the year."
+                            ]
+                        }
+                    ]
+                }
+            },
+            "embed_content": "<div id='rg_embed_link_8222243' class='rg_embed_link' data-song-id='8222243'>Read <a href='https://genius.com/Newjeans-hype-boy-lyrics'>\u201cHype Boy\u201d by NewJeans\u00a0(\ub274\uc9c4\uc2a4)</a> on Genius</div> <script crossorigin src='//genius.com/songs/8222243/embed.js'></script>",
+            "featured_video": false,
+            "full_title": "Hype Boy by\u00a0NewJeans\u00a0(\ub274\uc9c4\uc2a4)",
+            "header_image_thumbnail_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.1000x1000x1.jpg",
+            "id": 8222243,
+            "language": "ko",
+            "lyrics_owner_id": 2557222,
+            "lyrics_placeholder_reason": null,
+            "lyrics_state": "complete",
+            "path": "/Newjeans-hype-boy-lyrics",
+            "pyongs_count": 6,
+            "recording_location": null,
+            "relationships_index_url": "https://genius.com/Newjeans-hype-boy-sample",
+            "release_date": "2022-07-23",
+            "release_date_for_display": "July 23, 2022",
+            "release_date_with_abbreviated_month_for_display": "Jul. 23, 2022",
+            "song_art_image_thumbnail_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.300x300x1.jpg",
+            "song_art_image_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.1000x1000x1.jpg",
+            "stats": {
+                "accepted_annotations": 0,
+                "contributors": 22,
+                "iq_earners": 20,
+                "transcribers": 5,
+                "unreviewed_annotations": 1,
+                "verified_annotations": 0,
+                "hot": false,
+                "pageviews": 51680
+            },
+            "title": "Hype Boy",
+            "title_with_featured": "Hype Boy",
+            "url": "https://genius.com/Newjeans-hype-boy-lyrics",
+            "current_user_metadata": {
+                "permissions": [
+                    "see_pageviews",
+                    "view_apple_music_player",
+                    "view_recommendations",
+                    "view_relationships_page",
+                    "create_comment",
+                    "view_song_story_gallery"
+                ],
+                "excluded_permissions": [
+                    "follow",
+                    "award_transcription_iq",
+                    "remove_transcription_iq",
+                    "pyong",
+                    "edit_lyrics",
+                    "view_annotation_engagement_data",
+                    "publish",
+                    "unpublish",
+                    "edit_spotify_details",
+                    "hide",
+                    "unhide",
+                    "toggle_featured_video",
+                    "add_pinned_annotation_to",
+                    "add_community_annotation_to",
+                    "destroy",
+                    "mark_as_not_spam",
+                    "edit_spotify_annotations_for",
+                    "verify_lyrics",
+                    "unverify_lyrics",
+                    "edit_anything",
+                    "edit_any_media",
+                    "edit",
+                    "rename",
+                    "edit_tags",
+                    "reindex",
+                    "view_lyrics_synchronization",
+                    "enable_media",
+                    "disable_media",
+                    "edit_lyrics_or_annotation_brackets",
+                    "see_editorial_indicators",
+                    "view_attribution_visualization",
+                    "edit_annotation_brackets",
+                    "preview_lyrics_for_export",
+                    "hide_apple_player",
+                    "unhide_apple_player",
+                    "trigger_apple_match",
+                    "mark_lyrics_evaluation_as_complete",
+                    "mark_lyrics_evaluation_as_staff_approved",
+                    "unmark_lyrics_evaluation_as_complete",
+                    "mark_lyrics_evaluation_as_un_staff_approved",
+                    "view_transcriber_media_player",
+                    "override_apple_match",
+                    "set_song_color_gradient",
+                    "mark_as_hot",
+                    "unmark_as_hot",
+                    "edit_youtube_url",
+                    "edit_soundcloud_url",
+                    "edit_spotify_uuid",
+                    "edit_vevo_url",
+                    "moderate_annotations",
+                    "create_annotation",
+                    "see_short_id",
+                    "manage_chart_item",
+                    "create_tag",
+                    "propose_lyrics_edit",
+                    "view_lyrics_edit_proposals_on_song",
+                    "create_question"
+                ],
+                "interactions": {
+                    "pyong": false,
+                    "following": false
+                },
+                "relationships": {},
+                "iq_by_action": {}
+            },
+            "album": {
+                "api_path": "/albums/931102",
+                "cover_art_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.1000x1000x1.jpg",
+                "full_title": "New Jeans by NewJeans (\ub274\uc9c4\uc2a4)",
+                "id": 931102,
+                "name": "New Jeans",
+                "url": "https://genius.com/albums/Newjeans/New-jeans",
+                "artist": {
+                    "api_path": "/artists/3239944",
+                    "header_image_url": "https://images.genius.com/5f04f269ee235c725d66fd506fea4ade.1000x715x1.jpg",
+                    "id": 3239944,
+                    "image_url": "https://images.genius.com/25008310aad6a5955f66ae402dcb79be.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "NewJeans (\ub274\uc9c4\uc2a4)",
+                    "url": "https://genius.com/artists/Newjeans"
+                }
+            },
+            "custom_performances": [
+                {
+                    "label": "Background Vocals",
+                    "artists": [
+                        {
+                            "api_path": "/artists/1070258",
+                            "header_image_url": "https://images.genius.com/188f2286dc6407847a404c149711efe6.600x600x1.png",
+                            "id": 1070258,
+                            "image_url": "https://images.genius.com/188f2286dc6407847a404c149711efe6.600x600x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ylva Dimberg",
+                            "url": "https://genius.com/artists/Ylva-dimberg"
+                        },
+                        {
+                            "api_path": "/artists/2753419",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1676573542",
+                            "id": 2753419,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1676573542",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\ud5c8\uc131\uc8fc (Heo Seong Ju)",
+                            "url": "https://genius.com/artists/Heo-seong-ju"
+                        },
+                        {
+                            "api_path": "/artists/3181530",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1676573542",
+                            "id": 3181530,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1676573542",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Emily Kim",
+                            "url": "https://genius.com/artists/Emily-kim"
+                        },
+                        {
+                            "api_path": "/artists/3239944",
+                            "header_image_url": "https://images.genius.com/5f04f269ee235c725d66fd506fea4ade.1000x715x1.jpg",
+                            "id": 3239944,
+                            "image_url": "https://images.genius.com/25008310aad6a5955f66ae402dcb79be.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "NewJeans (\ub274\uc9c4\uc2a4)",
+                            "url": "https://genius.com/artists/Newjeans"
+                        }
+                    ]
+                },
+                {
+                    "label": "Additional Engineering",
+                    "artists": [
+                        {
+                            "api_path": "/artists/675000",
+                            "header_image_url": "https://images.genius.com/82c83e257e194dd8bdf969a7fefb41d8.533x533x1.jpg",
+                            "id": 675000,
+                            "image_url": "https://images.genius.com/82c83e257e194dd8bdf969a7fefb41d8.533x533x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Bill Zimmerman",
+                            "url": "https://genius.com/artists/Bill-zimmerman"
+                        }
+                    ]
+                },
+                {
+                    "label": "Mix Engineer",
+                    "artists": [
+                        {
+                            "api_path": "/artists/647073",
+                            "header_image_url": "https://images.genius.com/1c60abffcc70c71e0894dbec003639e2.420x280x1.jpg",
+                            "id": 647073,
+                            "image_url": "https://images.genius.com/2193c11f72c527a794c34dfb521fb5ab.453x453x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Phil Tan",
+                            "url": "https://genius.com/artists/Phil-tan"
+                        }
+                    ]
+                },
+                {
+                    "label": "Programming",
+                    "artists": [
+                        {
+                            "api_path": "/artists/207786",
+                            "header_image_url": "https://images.genius.com/34c92fc12bb1ec71dfd0735fefdb144e.600x600x1.jpg",
+                            "id": 207786,
+                            "image_url": "https://images.genius.com/34c92fc12bb1ec71dfd0735fefdb144e.600x600x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "250",
+                            "url": "https://genius.com/artists/250"
+                        }
+                    ]
+                },
+                {
+                    "label": "Arranger",
+                    "artists": [
+                        {
+                            "api_path": "/artists/207786",
+                            "header_image_url": "https://images.genius.com/34c92fc12bb1ec71dfd0735fefdb144e.600x600x1.jpg",
+                            "id": 207786,
+                            "image_url": "https://images.genius.com/34c92fc12bb1ec71dfd0735fefdb144e.600x600x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "250",
+                            "url": "https://genius.com/artists/250"
+                        }
+                    ]
+                },
+                {
+                    "label": "Composer",
+                    "artists": [
+                        {
+                            "api_path": "/artists/207786",
+                            "header_image_url": "https://images.genius.com/34c92fc12bb1ec71dfd0735fefdb144e.600x600x1.jpg",
+                            "id": 207786,
+                            "image_url": "https://images.genius.com/34c92fc12bb1ec71dfd0735fefdb144e.600x600x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "250",
+                            "url": "https://genius.com/artists/250"
+                        },
+                        {
+                            "api_path": "/artists/1070258",
+                            "header_image_url": "https://images.genius.com/188f2286dc6407847a404c149711efe6.600x600x1.png",
+                            "id": 1070258,
+                            "image_url": "https://images.genius.com/188f2286dc6407847a404c149711efe6.600x600x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ylva Dimberg",
+                            "url": "https://genius.com/artists/Ylva-dimberg"
+                        }
+                    ]
+                },
+                {
+                    "label": "Lyricist",
+                    "artists": [
+                        {
+                            "api_path": "/artists/3251100",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1676573542",
+                            "id": 3251100,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1676573542",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Gigi (KOR)",
+                            "url": "https://genius.com/artists/Gigi-kor"
+                        }
+                    ]
+                },
+                {
+                    "label": "Vocals",
+                    "artists": [
+                        {
+                            "api_path": "/artists/3241325",
+                            "header_image_url": "https://images.genius.com/f11af21cc28a0b9d37795edde3167d58.1000x333x1.jpg",
+                            "id": 3241325,
+                            "image_url": "https://images.genius.com/549da997f8d787b6603b60b89c11b7bd.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Hanni (NewJeans)",
+                            "url": "https://genius.com/artists/Hanni-newjeans"
+                        },
+                        {
+                            "api_path": "/artists/3241326",
+                            "header_image_url": "https://images.genius.com/f11af21cc28a0b9d37795edde3167d58.1000x333x1.jpg",
+                            "id": 3241326,
+                            "image_url": "https://images.genius.com/b9cd1f8dfa8482053a53ce38254dfddf.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Minji (NewJeans)",
+                            "url": "https://genius.com/artists/Minji-newjeans"
+                        },
+                        {
+                            "api_path": "/artists/3241327",
+                            "header_image_url": "https://images.genius.com/f11af21cc28a0b9d37795edde3167d58.1000x333x1.jpg",
+                            "id": 3241327,
+                            "image_url": "https://images.genius.com/25cb1e7a086f37b2278d926e859a4c33.992x992x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Danielle (NewJeans)",
+                            "url": "https://genius.com/artists/Danielle-newjeans"
+                        },
+                        {
+                            "api_path": "/artists/3241328",
+                            "header_image_url": "https://images.genius.com/f11af21cc28a0b9d37795edde3167d58.1000x333x1.jpg",
+                            "id": 3241328,
+                            "image_url": "https://images.genius.com/faca52cec741d06d3d3ebda5a88b6330.985x985x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Haerin (NewJeans)",
+                            "url": "https://genius.com/artists/Haerin-newjeans"
+                        },
+                        {
+                            "api_path": "/artists/3241329",
+                            "header_image_url": "https://images.genius.com/f11af21cc28a0b9d37795edde3167d58.1000x333x1.jpg",
+                            "id": 3241329,
+                            "image_url": "https://images.genius.com/dad7037665989c2c31bf1cffcf321bed.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Hyein (NewJeans)",
+                            "url": "https://genius.com/artists/Hyein-newjeans"
+                        }
+                    ]
+                },
+                {
+                    "label": "Label",
+                    "artists": [
+                        {
+                            "api_path": "/artists/3239978",
+                            "header_image_url": "https://images.genius.com/e71183d98253d96f0944ae177c206787.1000x333x1.jpg",
+                            "id": 3239978,
+                            "image_url": "https://images.genius.com/176e85df26f4aeb4f20258d28d6ebef4.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "ADOR (\uc5b4\ub3c4\uc5b4) (label)",
+                            "url": "https://genius.com/artists/Ador-label"
+                        }
+                    ]
+                }
+            ],
+            "description_annotation": {
+                "_type": "referent",
+                "annotator_id": 15192721,
+                "annotator_login": "ssaesae",
+                "api_path": "/referents/26328917",
+                "classification": "unreviewed",
+                "fragment": "Hype Boy",
+                "id": 26328917,
+                "is_description": true,
+                "path": "/26328917/Newjeans-hype-boy/Hype-boy",
+                "range": {
+                    "content": "Hype Boy"
+                },
+                "song_id": 8222243,
+                "url": "https://genius.com/26328917/Newjeans-hype-boy/Hype-boy",
+                "verified_annotator_ids": [],
+                "annotatable": {
+                    "api_path": "/songs/8222243",
+                    "client_timestamps": {
+                        "updated_by_human_at": 1676045413,
+                        "lyrics_updated_at": 1674542873
+                    },
+                    "context": "NewJeans (\ub274\uc9c4\uc2a4)",
+                    "id": 8222243,
+                    "image_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.1000x1000x1.jpg",
+                    "link_title": "Hype Boy by\u00a0NewJeans\u00a0(\ub274\uc9c4\uc2a4)",
+                    "title": "Hype Boy",
+                    "type": "Song",
+                    "url": "https://genius.com/Newjeans-hype-boy-lyrics"
+                },
+                "annotations": [
+                    {
+                        "api_path": "/annotations/26328917",
+                        "body": {
+                            "dom": {
+                                "tag": "root",
+                                "children": [
+                                    {
+                                        "tag": "p",
+                                        "children": [
+                                            "\u201cHype Boy\u201d is a Korean-language song and the second single recorded by South Korean girl group ",
+                                            {
+                                                "tag": "a",
+                                                "attributes": {
+                                                    "href": "https://genius.com/artists/Newjeans",
+                                                    "rel": "noopener"
+                                                },
+                                                "data": {
+                                                    "api_path": "/artists/3239944"
+                                                },
+                                                "children": [
+                                                    "NewJeans (\ub274\uc9c4\uc2a4)"
+                                                ]
+                                            },
+                                            " from their debut extended play (EP), ",
+                                            {
+                                                "tag": "a",
+                                                "attributes": {
+                                                    "href": "https://genius.com/albums/Newjeans/Newjeans-1st-ep-new-jeans",
+                                                    "rel": "noopener"
+                                                },
+                                                "data": {
+                                                    "api_path": "/albums/931102"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "tag": "em",
+                                                        "children": [
+                                                            "New Jeans"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            ". It was released by ADOR on July 23, 2022, as one of the EP\u2019s lead singles."
+                                        ]
+                                    },
+                                    "",
+                                    {
+                                        "tag": "p",
+                                        "children": [
+                                            "On July 23, NewJeans released their second single, \u201cHype Boy\u201d, accompanied by a 50-second introductory clip revealing the members and four additional music videos specific to each member."
+                                        ]
+                                    },
+                                    "",
+                                    {
+                                        "tag": "p",
+                                        "children": [
+                                            {
+                                                "tag": "a",
+                                                "attributes": {
+                                                    "href": "https://youtu.be/SHYWqy_X-tU",
+                                                    "rel": "noopener nofollow"
+                                                },
+                                                "children": [
+                                                    "https://youtu.be/SHYWqy_X-tU"
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    "",
+                                    {
+                                        "tag": "p",
+                                        "children": [
+                                            "The song, written in Korean and English, has a running time of 2 minutes and 59 seconds and is composed in the key of E minor, with a tempo of 100 beats per minute."
+                                        ]
+                                    },
+                                    "",
+                                    {
+                                        "tag": "p",
+                                        "children": [
+                                            {
+                                                "tag": "a",
+                                                "attributes": {
+                                                    "href": "https://www.nme.com/reviews/album/newjeans-new-jeans-review-hybe-3283059",
+                                                    "rel": "noopener nofollow"
+                                                },
+                                                "children": [
+                                                    "Carmen Chin"
+                                                ]
+                                            },
+                                            " of ",
+                                            {
+                                                "tag": "em",
+                                                "children": [
+                                                    "NME"
+                                                ]
+                                            },
+                                            " wrote in a review for the group\u2019s EP ",
+                                            {
+                                                "tag": "a",
+                                                "attributes": {
+                                                    "href": "https://genius.com/albums/Newjeans/Newjeans-1st-ep-new-jeans",
+                                                    "rel": "noopener"
+                                                },
+                                                "data": {
+                                                    "api_path": "/albums/931102"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "tag": "em",
+                                                        "children": [
+                                                            "New Jeans"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            " that \u201cHype Boy\u201d eschews the \u201cslow-jam nostalgia\u201d of the preceding single \u201cAttention\u201d and \u201cinstead invokes contemporary reimaginations of 2000s sounds with its tropical touches and future bass,\u201d although \u201cthe way these elements are arranged make for a dreamy, almost hazy atmosphere.\u201d In December 2022, ",
+                                            {
+                                                "tag": "a",
+                                                "attributes": {
+                                                    "href": "https://www.rollingstone.com/music/music-lists/best-songs-2022-list-1234632381/new-jeans-hype-boy-1234632528/",
+                                                    "rel": "noopener nofollow"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "tag": "em",
+                                                        "children": [
+                                                            "Rolling Stone"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            " placed \u201cHype Boy\u201d at number 24 on their list of the top 100 best songs of 2022, highlighting it as a \u201cstandout\u201d from the group\u2019s EP with \u201cits addictive choreography and catchy chorus\u201d. ",
+                                            {
+                                                "tag": "a",
+                                                "attributes": {
+                                                    "href": "https://time.com/6240691/best-kpop-2022/",
+                                                    "rel": "noopener nofollow"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "tag": "em",
+                                                        "children": [
+                                                            "Time"
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            " named it one of the best K-pop songs of the year."
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        "comment_count": 0,
+                        "community": true,
+                        "custom_preview": null,
+                        "has_voters": true,
+                        "id": 26328917,
+                        "pinned": false,
+                        "share_url": "https://genius.com/26328917",
+                        "source": null,
+                        "state": "pending",
+                        "url": "https://genius.com/26328917/Newjeans-hype-boy/Hype-boy",
+                        "verified": false,
+                        "votes_total": 4,
+                        "current_user_metadata": {
+                            "permissions": [
+                                "create_comment"
+                            ],
+                            "excluded_permissions": [
+                                "vote",
+                                "edit",
+                                "cosign",
+                                "uncosign",
+                                "destroy",
+                                "accept",
+                                "reject",
+                                "see_unreviewed",
+                                "clear_votes",
+                                "propose_edit_to",
+                                "pin_to_profile",
+                                "unpin_from_profile",
+                                "update_source",
+                                "edit_custom_preview"
+                            ],
+                            "interactions": {
+                                "cosign": false,
+                                "pyong": false,
+                                "vote": null
+                            },
+                            "iq_by_action": {}
+                        },
+                        "authors": [
+                            {
+                                "attribution": 1.0,
+                                "pinned_role": null,
+                                "user": {
+                                    "api_path": "/users/15192721",
+                                    "avatar": {
+                                        "tiny": {
+                                            "url": "https://images.genius.com/avatars/tiny/32423fc0b53ea52f0a5db3dce88fd257",
+                                            "bounding_box": {
+                                                "width": 16,
+                                                "height": 16
+                                            }
+                                        },
+                                        "thumb": {
+                                            "url": "https://images.genius.com/avatars/thumb/32423fc0b53ea52f0a5db3dce88fd257",
+                                            "bounding_box": {
+                                                "width": 32,
+                                                "height": 32
+                                            }
+                                        },
+                                        "small": {
+                                            "url": "https://images.genius.com/avatars/small/32423fc0b53ea52f0a5db3dce88fd257",
+                                            "bounding_box": {
+                                                "width": 100,
+                                                "height": 100
+                                            }
+                                        },
+                                        "medium": {
+                                            "url": "https://images.genius.com/avatars/medium/32423fc0b53ea52f0a5db3dce88fd257",
+                                            "bounding_box": {
+                                                "width": 300,
+                                                "height": 400
+                                            }
+                                        }
+                                    },
+                                    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/z4bxggd1wf",
+                                    "human_readable_role_for_display": "Contributor",
+                                    "id": 15192721,
+                                    "iq": 4018,
+                                    "login": "ssaesae",
+                                    "name": "ssaesae",
+                                    "role_for_display": "contributor",
+                                    "url": "https://genius.com/ssaesae",
+                                    "current_user_metadata": {
+                                        "permissions": [],
+                                        "excluded_permissions": [
+                                            "follow"
+                                        ],
+                                        "interactions": {
+                                            "following": false
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "cosigned_by": [],
+                        "rejection_comment": null,
+                        "verified_by": null
+                    }
+                ]
+            },
+            "featured_artists": [],
+            "lyrics_marked_complete_by": null,
+            "lyrics_marked_staff_approved_by": null,
+            "media": [
+                {
+                    "provider": "youtube",
+                    "start": 0,
+                    "type": "video",
+                    "url": "http://www.youtube.com/watch?v=SHYWqy_X-tU"
+                }
+            ],
+            "primary_artist": {
+                "api_path": "/artists/3239944",
+                "header_image_url": "https://images.genius.com/5f04f269ee235c725d66fd506fea4ade.1000x715x1.jpg",
+                "id": 3239944,
+                "image_url": "https://images.genius.com/25008310aad6a5955f66ae402dcb79be.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "NewJeans (\ub274\uc9c4\uc2a4)",
+                "url": "https://genius.com/artists/Newjeans"
+            },
+            "producer_artists": [
+                {
+                    "api_path": "/artists/207786",
+                    "header_image_url": "https://images.genius.com/34c92fc12bb1ec71dfd0735fefdb144e.600x600x1.jpg",
+                    "id": 207786,
+                    "image_url": "https://images.genius.com/34c92fc12bb1ec71dfd0735fefdb144e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "250",
+                    "url": "https://genius.com/artists/250"
+                }
+            ],
+            "song_relationships": [
+                {
+                    "relationship_type": "samples",
+                    "type": "samples",
+                    "url": null,
+                    "songs": []
+                },
+                {
+                    "relationship_type": "sampled_in",
+                    "type": "sampled_in",
+                    "url": null,
+                    "songs": []
+                },
+                {
+                    "relationship_type": "interpolates",
+                    "type": "interpolates",
+                    "url": "https://genius.com/Twenty-one-pilots-car-radio-sample/interpolations",
+                    "songs": []
+                },
+                {
+                    "relationship_type": "interpolated_by",
+                    "type": "interpolated_by",
+                    "url": null,
+                    "songs": []
+                },
+                {
+                    "relationship_type": "cover_of",
+                    "type": "cover_of",
+                    "url": "https://genius.com/Panic-at-the-disco-high-hopes-sample/covers",
+                    "songs": []
+                },
+                {
+                    "relationship_type": "covered_by",
+                    "type": "covered_by",
+                    "url": null,
+                    "songs": []
+                },
+                {
+                    "relationship_type": "remix_of",
+                    "type": "remix_of",
+                    "url": "https://genius.com/J-cole-power-trip-sample/remixes",
+                    "songs": []
+                },
+                {
+                    "relationship_type": "remixed_by",
+                    "type": "remixed_by",
+                    "url": null,
+                    "songs": []
+                },
+                {
+                    "relationship_type": "live_version_of",
+                    "type": "live_version_of",
+                    "url": null,
+                    "songs": []
+                },
+                {
+                    "relationship_type": "performed_live_as",
+                    "type": "performed_live_as",
+                    "url": null,
+                    "songs": []
+                },
+                {
+                    "relationship_type": "translation_of",
+                    "type": "translation_of",
+                    "url": null,
+                    "songs": []
+                },
+                {
+                    "relationship_type": "translations",
+                    "type": "translations",
+                    "url": "https://genius.com/Newjeans-hype-boy-sample/translations",
+                    "songs": [
+                        {
+                            "annotation_count": 0,
+                            "api_path": "/songs/8226330",
+                            "artist_names": "Genius English Translations",
+                            "full_title": "NewJeans - Hype Boy (English Translation) by\u00a0Genius\u00a0English Translations",
+                            "header_image_thumbnail_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.300x300x1.jpg",
+                            "header_image_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.1000x1000x1.jpg",
+                            "id": 8226330,
+                            "language": "en",
+                            "lyrics_owner_id": 16463578,
+                            "lyrics_state": "complete",
+                            "path": "/Genius-english-translations-newjeans-hype-boy-english-translation-lyrics",
+                            "pyongs_count": null,
+                            "relationships_index_url": "https://genius.com/Genius-english-translations-newjeans-hype-boy-english-translation-sample",
+                            "release_date_components": {
+                                "year": 2022,
+                                "month": 7,
+                                "day": 23
+                            },
+                            "release_date_for_display": "July 23, 2022",
+                            "release_date_with_abbreviated_month_for_display": "Jul. 23, 2022",
+                            "song_art_image_thumbnail_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.300x300x1.jpg",
+                            "song_art_image_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.1000x1000x1.jpg",
+                            "stats": {
+                                "unreviewed_annotations": 0,
+                                "concurrents": 4,
+                                "hot": false,
+                                "pageviews": 76379
+                            },
+                            "title": "NewJeans - Hype Boy (English Translation)",
+                            "title_with_featured": "NewJeans - Hype Boy (English Translation)",
+                            "url": "https://genius.com/Genius-english-translations-newjeans-hype-boy-english-translation-lyrics",
+                            "featured_artists": [],
+                            "primary_artist": {
+                                "api_path": "/artists/196943",
+                                "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png",
+                                "id": 196943,
+                                "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+                                "is_meme_verified": false,
+                                "is_verified": false,
+                                "name": "Genius English Translations",
+                                "url": "https://genius.com/artists/Genius-english-translations"
+                            }
+                        },
+                        {
+                            "annotation_count": 0,
+                            "api_path": "/songs/8393349",
+                            "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                            "full_title": "NewJeans - Hype Boy (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                            "header_image_thumbnail_url": "https://images.genius.com/eb7eacab4913d525d6d8905be436de26.300x300x1.jpg",
+                            "header_image_url": "https://images.genius.com/eb7eacab4913d525d6d8905be436de26.1000x1000x1.jpg",
+                            "id": 8393349,
+                            "language": "es",
+                            "lyrics_owner_id": 15498999,
+                            "lyrics_state": "complete",
+                            "path": "/Genius-traducciones-al-espanol-newjeans-hype-boy-traduccion-al-espanol-lyrics",
+                            "pyongs_count": null,
+                            "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-newjeans-hype-boy-traduccion-al-espanol-sample",
+                            "release_date_components": {
+                                "year": 2022,
+                                "month": 7,
+                                "day": 23
+                            },
+                            "release_date_for_display": "July 23, 2022",
+                            "release_date_with_abbreviated_month_for_display": "Jul. 23, 2022",
+                            "song_art_image_thumbnail_url": "https://images.genius.com/eb7eacab4913d525d6d8905be436de26.300x300x1.jpg",
+                            "song_art_image_url": "https://images.genius.com/eb7eacab4913d525d6d8905be436de26.1000x1000x1.jpg",
+                            "stats": {
+                                "unreviewed_annotations": 0,
+                                "hot": false,
+                                "pageviews": 5842
+                            },
+                            "title": "NewJeans - Hype Boy (Traducci\u00f3n al Espa\u00f1ol)",
+                            "title_with_featured": "NewJeans - Hype Boy (Traducci\u00f3n al Espa\u00f1ol)",
+                            "url": "https://genius.com/Genius-traducciones-al-espanol-newjeans-hype-boy-traduccion-al-espanol-lyrics",
+                            "featured_artists": [],
+                            "primary_artist": {
+                                "api_path": "/artists/1376254",
+                                "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                                "id": 1376254,
+                                "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                                "is_meme_verified": false,
+                                "is_verified": false,
+                                "name": "Genius Traducciones al Espa\u00f1ol",
+                                "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                            }
+                        },
+                        {
+                            "annotation_count": 0,
+                            "api_path": "/songs/8262584",
+                            "artist_names": "Genius Hindi Translations (\u0939\u093f\u0902\u0926\u0940 \u0905\u0928\u0941\u0935\u093e\u0926)",
+                            "full_title": "NewJeans - HypeBoy (\u0939\u093f\u0902\u0926\u0940 \u0905\u0928\u0941\u0935\u093e\u0926) by\u00a0Genius\u00a0Hindi Translations (\u0939\u093f\u0902\u0926\u0940 \u0905\u0928\u0941\u0935\u093e\u0926)",
+                            "header_image_thumbnail_url": "https://images.genius.com/f4c86fa3ba6dec8f03664efa2d925498.300x300x1.jpg",
+                            "header_image_url": "https://images.genius.com/f4c86fa3ba6dec8f03664efa2d925498.899x899x1.jpg",
+                            "id": 8262584,
+                            "language": "hi",
+                            "lyrics_owner_id": 11598419,
+                            "lyrics_state": "complete",
+                            "path": "/Genius-hindi-translations-newjeans-hypeboy-lyrics",
+                            "pyongs_count": null,
+                            "relationships_index_url": "https://genius.com/Genius-hindi-translations-newjeans-hypeboy-sample",
+                            "release_date_components": {
+                                "year": 2022,
+                                "month": 8,
+                                "day": 1
+                            },
+                            "release_date_for_display": "August 1, 2022",
+                            "release_date_with_abbreviated_month_for_display": "Aug. 1, 2022",
+                            "song_art_image_thumbnail_url": "https://images.genius.com/f4c86fa3ba6dec8f03664efa2d925498.300x300x1.jpg",
+                            "song_art_image_url": "https://images.genius.com/f4c86fa3ba6dec8f03664efa2d925498.899x899x1.jpg",
+                            "stats": {
+                                "unreviewed_annotations": 0,
+                                "hot": false
+                            },
+                            "title": "NewJeans - HypeBoy (\u0939\u093f\u0902\u0926\u0940 \u0905\u0928\u0941\u0935\u093e\u0926)",
+                            "title_with_featured": "NewJeans - HypeBoy (\u0939\u093f\u0902\u0926\u0940 \u0905\u0928\u0941\u0935\u093e\u0926)",
+                            "url": "https://genius.com/Genius-hindi-translations-newjeans-hypeboy-lyrics",
+                            "featured_artists": [],
+                            "primary_artist": {
+                                "api_path": "/artists/2782164",
+                                "header_image_url": "https://images.genius.com/fc99589a89d98c66f61dc65c3eaa6485.1000x667x1.png",
+                                "id": 2782164,
+                                "image_url": "https://images.genius.com/6643c9182dc9696bca52b6d3a5296473.800x800x1.png",
+                                "is_meme_verified": false,
+                                "is_verified": false,
+                                "name": "Genius Hindi Translations (\u0939\u093f\u0902\u0926\u0940 \u0905\u0928\u0941\u0935\u093e\u0926)",
+                                "url": "https://genius.com/artists/Genius-hindi-translations"
+                            }
+                        },
+                        {
+                            "annotation_count": 0,
+                            "api_path": "/songs/8668572",
+                            "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "full_title": "NewJeans - Hype Boy (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                            "header_image_thumbnail_url": "https://images.genius.com/47fc0fa523d0cbe7c780ec460e05bfa4.300x300x1.jpg",
+                            "header_image_url": "https://images.genius.com/47fc0fa523d0cbe7c780ec460e05bfa4.552x552x1.jpg",
+                            "id": 8668572,
+                            "language": "pt",
+                            "lyrics_owner_id": 6892386,
+                            "lyrics_state": "complete",
+                            "path": "/Genius-brasil-traducoes-newjeans-hype-boy-traducao-em-portugues-lyrics",
+                            "pyongs_count": null,
+                            "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-newjeans-hype-boy-traducao-em-portugues-sample",
+                            "release_date_components": {
+                                "year": 2022,
+                                "month": 8,
+                                "day": 1
+                            },
+                            "release_date_for_display": "August 1, 2022",
+                            "release_date_with_abbreviated_month_for_display": "Aug. 1, 2022",
+                            "song_art_image_thumbnail_url": "https://images.genius.com/47fc0fa523d0cbe7c780ec460e05bfa4.300x300x1.jpg",
+                            "song_art_image_url": "https://images.genius.com/47fc0fa523d0cbe7c780ec460e05bfa4.552x552x1.jpg",
+                            "stats": {
+                                "unreviewed_annotations": 0,
+                                "hot": false
+                            },
+                            "title": "NewJeans - Hype Boy (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                            "title_with_featured": "NewJeans - Hype Boy (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                            "url": "https://genius.com/Genius-brasil-traducoes-newjeans-hype-boy-traducao-em-portugues-lyrics",
+                            "featured_artists": [],
+                            "primary_artist": {
+                                "api_path": "/artists/210448",
+                                "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                                "id": 210448,
+                                "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                                "is_meme_verified": false,
+                                "is_verified": false,
+                                "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                                "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                            }
+                        },
+                        {
+                            "annotation_count": 0,
+                            "api_path": "/songs/8671544",
+                            "artist_names": "Genius Thai Translations (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                            "full_title": "NewJeans - Hype Boy (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22) by\u00a0Genius\u00a0Thai Translations (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                            "header_image_thumbnail_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.300x300x1.jpg",
+                            "header_image_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.1000x1000x1.jpg",
+                            "id": 8671544,
+                            "language": "th",
+                            "lyrics_owner_id": 16463578,
+                            "lyrics_state": "complete",
+                            "path": "/Genius-thai-translations-newjeans-hype-boy-lyrics",
+                            "pyongs_count": null,
+                            "relationships_index_url": "https://genius.com/Genius-thai-translations-newjeans-hype-boy-sample",
+                            "release_date_components": {
+                                "year": 2022,
+                                "month": 7,
+                                "day": 23
+                            },
+                            "release_date_for_display": "July 23, 2022",
+                            "release_date_with_abbreviated_month_for_display": "Jul. 23, 2022",
+                            "song_art_image_thumbnail_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.300x300x1.jpg",
+                            "song_art_image_url": "https://images.genius.com/0cc17757cbe6c7934352f1d2ce021a34.1000x1000x1.jpg",
+                            "stats": {
+                                "unreviewed_annotations": 0,
+                                "hot": false
+                            },
+                            "title": "NewJeans - Hype Boy (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                            "title_with_featured": "NewJeans - Hype Boy (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                            "url": "https://genius.com/Genius-thai-translations-newjeans-hype-boy-lyrics",
+                            "featured_artists": [],
+                            "primary_artist": {
+                                "api_path": "/artists/1651883",
+                                "header_image_url": "https://images.genius.com/df3c48b9c1e6e7b4bf1dc8ed7ba9a7e0.1000x1000x1.png",
+                                "id": 1651883,
+                                "image_url": "https://images.genius.com/0c890ba78da5b95ab9dce53e7d8bc13c.1000x1000x1.png",
+                                "is_meme_verified": false,
+                                "is_verified": false,
+                                "name": "Genius Thai Translations (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                                "url": "https://genius.com/artists/Genius-thai-translations"
+                            }
+                        },
+                        {
+                            "annotation_count": 0,
+                            "api_path": "/songs/8226325",
+                            "artist_names": "Genius Romanizations",
+                            "full_title": "NewJeans - Hype Boy (Romanized) by\u00a0Genius\u00a0Romanizations",
+                            "header_image_thumbnail_url": "https://images.genius.com/008470d3faefd4df5d16937f926bf6d4.300x300x1.jpg",
+                            "header_image_url": "https://images.genius.com/008470d3faefd4df5d16937f926bf6d4.1000x1000x1.jpg",
+                            "id": 8226325,
+                            "language": "romanization",
+                            "lyrics_owner_id": 16463578,
+                            "lyrics_state": "complete",
+                            "path": "/Genius-romanizations-newjeans-hype-boy-romanized-lyrics",
+                            "pyongs_count": 12,
+                            "relationships_index_url": "https://genius.com/Genius-romanizations-newjeans-hype-boy-romanized-sample",
+                            "release_date_components": {
+                                "year": 2022,
+                                "month": 7,
+                                "day": 23
+                            },
+                            "release_date_for_display": "July 23, 2022",
+                            "release_date_with_abbreviated_month_for_display": "Jul. 23, 2022",
+                            "song_art_image_thumbnail_url": "https://images.genius.com/008470d3faefd4df5d16937f926bf6d4.300x300x1.jpg",
+                            "song_art_image_url": "https://images.genius.com/008470d3faefd4df5d16937f926bf6d4.1000x1000x1.jpg",
+                            "stats": {
+                                "unreviewed_annotations": 0,
+                                "concurrents": 6,
+                                "hot": false,
+                                "pageviews": 269496
+                            },
+                            "title": "NewJeans - Hype Boy (Romanized)",
+                            "title_with_featured": "NewJeans - Hype Boy (Romanized)",
+                            "url": "https://genius.com/Genius-romanizations-newjeans-hype-boy-romanized-lyrics",
+                            "featured_artists": [],
+                            "primary_artist": {
+                                "api_path": "/artists/1507735",
+                                "header_image_url": "https://images.genius.com/d1bd81b4e1111bb99768ade045b4046a.1000x495x1.png",
+                                "id": 1507735,
+                                "image_url": "https://images.genius.com/aa42718e332e97c60273b466ef6dc987.999x999x1.png",
+                                "is_meme_verified": false,
+                                "is_verified": false,
+                                "name": "Genius Romanizations",
+                                "url": "https://genius.com/artists/Genius-romanizations"
+                            }
+                        },
+                        {
+                            "annotation_count": 0,
+                            "api_path": "/songs/8740061",
+                            "artist_names": "Genius Ukrainian Translations",
+                            "full_title": "NewJeans - Hype Boy (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Ukrainian Translations",
+                            "header_image_thumbnail_url": "https://images.genius.com/c5c873b7a52f8d334aaf326d401e51bf.300x300x1.jpg",
+                            "header_image_url": "https://images.genius.com/c5c873b7a52f8d334aaf326d401e51bf.500x500x1.jpg",
+                            "id": 8740061,
+                            "language": "uk",
+                            "lyrics_owner_id": 19251162,
+                            "lyrics_state": "complete",
+                            "path": "/Genius-ukrainian-translations-newjeans-hype-boy-lyrics",
+                            "pyongs_count": null,
+                            "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-newjeans-hype-boy-sample",
+                            "release_date_components": {
+                                "year": 2022,
+                                "month": 7,
+                                "day": 23
+                            },
+                            "release_date_for_display": "July 23, 2022",
+                            "release_date_with_abbreviated_month_for_display": "Jul. 23, 2022",
+                            "song_art_image_thumbnail_url": "https://images.genius.com/c5c873b7a52f8d334aaf326d401e51bf.300x300x1.jpg",
+                            "song_art_image_url": "https://images.genius.com/c5c873b7a52f8d334aaf326d401e51bf.500x500x1.jpg",
+                            "stats": {
+                                "unreviewed_annotations": 0,
+                                "hot": false
+                            },
+                            "title": "NewJeans - Hype Boy (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                            "title_with_featured": "NewJeans - Hype Boy (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                            "url": "https://genius.com/Genius-ukrainian-translations-newjeans-hype-boy-lyrics",
+                            "featured_artists": [],
+                            "primary_artist": {
+                                "api_path": "/artists/1872193",
+                                "header_image_url": "https://images.genius.com/f9fbd9444a61bcb22a5ceee2817c4d65.512x512x1.png",
+                                "id": 1872193,
+                                "image_url": "https://images.genius.com/f9fbd9444a61bcb22a5ceee2817c4d65.512x512x1.png",
+                                "is_meme_verified": false,
+                                "is_verified": false,
+                                "name": "Genius Ukrainian Translations",
+                                "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "translation_songs": [
+                {
+                    "api_path": "/songs/8226330",
+                    "id": 8226330,
+                    "language": "en",
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-newjeans-hype-boy-english-translation-lyrics",
+                    "title": "NewJeans - Hype Boy (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-newjeans-hype-boy-english-translation-lyrics"
+                },
+                {
+                    "api_path": "/songs/8393349",
+                    "id": 8393349,
+                    "language": "es",
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-newjeans-hype-boy-traduccion-al-espanol-lyrics",
+                    "title": "NewJeans - Hype Boy (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-newjeans-hype-boy-traduccion-al-espanol-lyrics"
+                },
+                {
+                    "api_path": "/songs/8262584",
+                    "id": 8262584,
+                    "language": "hi",
+                    "lyrics_state": "complete",
+                    "path": "/Genius-hindi-translations-newjeans-hypeboy-lyrics",
+                    "title": "NewJeans - HypeBoy (\u0939\u093f\u0902\u0926\u0940 \u0905\u0928\u0941\u0935\u093e\u0926)",
+                    "url": "https://genius.com/Genius-hindi-translations-newjeans-hypeboy-lyrics"
+                },
+                {
+                    "api_path": "/songs/8668572",
+                    "id": 8668572,
+                    "language": "pt",
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-newjeans-hype-boy-traducao-em-portugues-lyrics",
+                    "title": "NewJeans - Hype Boy (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-newjeans-hype-boy-traducao-em-portugues-lyrics"
+                },
+                {
+                    "api_path": "/songs/8671544",
+                    "id": 8671544,
+                    "language": "th",
+                    "lyrics_state": "complete",
+                    "path": "/Genius-thai-translations-newjeans-hype-boy-lyrics",
+                    "title": "NewJeans - Hype Boy (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "url": "https://genius.com/Genius-thai-translations-newjeans-hype-boy-lyrics"
+                },
+                {
+                    "api_path": "/songs/8226325",
+                    "id": 8226325,
+                    "language": "romanization",
+                    "lyrics_state": "complete",
+                    "path": "/Genius-romanizations-newjeans-hype-boy-romanized-lyrics",
+                    "title": "NewJeans - Hype Boy (Romanized)",
+                    "url": "https://genius.com/Genius-romanizations-newjeans-hype-boy-romanized-lyrics"
+                },
+                {
+                    "api_path": "/songs/8740061",
+                    "id": 8740061,
+                    "language": "uk",
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ukrainian-translations-newjeans-hype-boy-lyrics",
+                    "title": "NewJeans - Hype Boy (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "url": "https://genius.com/Genius-ukrainian-translations-newjeans-hype-boy-lyrics"
+                }
+            ],
+            "verified_annotations_by": [],
+            "verified_contributors": [],
+            "verified_lyrics_by": [],
+            "writer_artists": [
+                {
+                    "api_path": "/artists/3241325",
+                    "header_image_url": "https://images.genius.com/f11af21cc28a0b9d37795edde3167d58.1000x333x1.jpg",
+                    "id": 3241325,
+                    "image_url": "https://images.genius.com/549da997f8d787b6603b60b89c11b7bd.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hanni (NewJeans)",
+                    "url": "https://genius.com/artists/Hanni-newjeans"
+                },
+                {
+                    "api_path": "/artists/1070258",
+                    "header_image_url": "https://images.genius.com/188f2286dc6407847a404c149711efe6.600x600x1.png",
+                    "id": 1070258,
+                    "image_url": "https://images.genius.com/188f2286dc6407847a404c149711efe6.600x600x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ylva Dimberg",
+                    "url": "https://genius.com/artists/Ylva-dimberg"
+                },
+                {
+                    "api_path": "/artists/3251100",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1676573542",
+                    "id": 3251100,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1676573542",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gigi (KOR)",
+                    "url": "https://genius.com/artists/Gigi-kor"
+                }
+            ]
+        }
+    }
+}
