@@ -162,3 +162,6 @@ cython_debug/
 
 # Jupyter Notebook
 test.ipynb
+
+# config
+config_genius.py
