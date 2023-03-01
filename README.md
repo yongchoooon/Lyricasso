@@ -1,4 +1,4 @@
-# ArtworksGenerator
+# Lyricasso
 - input : Album metadata (ex. 가사 요약, 제목, 장르, 앨범 소개 등..) + 테마(ex. 일러스트, 인물, 풍경, 아이콘 등..)
 - output : Album cover image
 
