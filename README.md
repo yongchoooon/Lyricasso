@@ -1,5 +1,5 @@
 # Lyricasso
-- input : Album metadata (ex. 가사 요약, 제목, 장르, 앨범 소개 등..) + 테마(ex. 일러스트, 인물, 풍경, 아이콘 등..)
+- input : Album metadata(타이틀곡 가사 요약 + 앨범 제목 + 장르) + 테마(ex. 일러스트, 인물, 풍경, 아이콘 등..)
 - output : Album cover image
 
 ## Issue - Dataset 수집
@@ -11,7 +11,7 @@
     - 수집할 곡(or 앨범)의 발매연도는?
 
 
-## `genius.py`
+## `dataset_collecting/main.py`
 - [lyricsgenius](https://lyricsgenius.readthedocs.io/en/master/)를 이용해 노래 가사와 앨범 커버 이미지 수집
 - input
     - artist name
